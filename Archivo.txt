@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sandro Rafael Chi Uc 
+=======
+Jose Manuel Morales Soriano
+>>>>>>> 2fc654b19841da3b3bd6884ef85ca0ce72d94719
